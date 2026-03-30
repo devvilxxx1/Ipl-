@@ -1,0 +1,62 @@
+{
+  "CSK": {
+    "name": "Chennai Super Kings", "color": "#FFFF00", "text": "#000",
+    "players": {
+      "1": "Ruturaj Gaikwad", "2": "MS Dhoni", "3": "Sanju Samson", "4": "Shivam Dube", "5": "Noor Ahmad", "6": "Khaleel Ahmed", "7": "Dewald Brevis", "8": "Matheesha Pathirana", "9": "Shardul Thakur", "10": "Anshul Kamboj", "11": "Mukesh Choudhary", "12": "Nathan Ellis", "13": "Shreyas Gopal", "14": "Jamie Overton", "15": "Ayush Mhatre", "16": "Ramakrishna Ghosh", "17": "Gurjapneet Singh", "18": "Urvil Patel", "19": "Akeal Hosein", "20": "Prashant Veer", "21": "Kartik Sharma", "22": "Matthew Short", "23": "Aman Khan", "24": "Sarfaraz Khan", "25": "Matt Henry"
+    }
+  },
+  "MI": {
+    "name": "Mumbai Indians", "color": "#004BA0", "text": "#FFF",
+    "players": {
+      "1": "Hardik Pandya", "2": "Rohit Sharma", "3": "Suryakumar Yadav", "4": "Jasprit Bumrah", "5": "Mitchell Santner", "6": "Tilak Varma", "7": "Naman Dhir", "8": "Deepak Chahar", "9": "Trent Boult", "10": "Will Jacks", "11": "Shardul Thakur", "12": "Sherfane Rutherford", "13": "Tim David", "14": "Gerald Coetzee", "15": "Allah Ghazanfar", "16": "Ashwani Kumar", "17": "Corbin Bosch", "18": "Raghu Sharma", "19": "Raj Bawa", "20": "Robin Minz", "21": "Ryan Rickelton", "22": "Nuwans Thushara", "23": "Dilshan Madushanka", "24": "Piyush Chawla", "25": "Shreyas Gopal"
+    }
+  },
+  "DC": {
+    "name": "Delhi Capitals", "color": "#004C93", "text": "#FFF",
+    "players": {
+      "1": "Axar Patel", "2": "KL Rahul", "3": "Karun Nair", "4": "Mitchell Starc", "5": "David Miller", "6": "Ben Duckett", "7": "Pathum Nissanka", "8": "Prithvi Shaw", "9": "Abishek Porel", "10": "Tristan Stubbs", "11": "Kuldeep Yadav", "12": "Nitish Rana", "13": "T. Natarajan", "14": "Mukesh Kumar", "15": "Dushmantha Chameera", "16": "Sameer Rizvi", "17": "Ashutosh Sharma", "18": "Vipraj Nigam", "19": "Ajay Mandal", "20": "Tripurana Vijay", "21": "Madhav Tiwari", "22": "Auqib Dar", "23": "Lungisani Ngidi", "24": "Kyle Jamieson", "25": "Sahil Parakh"
+    }
+  },
+  "LSG": {
+    "name": "Lucknow Super Giants", "color": "#0057E2", "text": "#FFF",
+    "players": {
+      "1": "Rishabh Pant", "2": "Nicholas Pooran", "3": "Abdul Samad", "4": "Ayush Badoni", "5": "Aiden Markram", "6": "Mohammed Shami", "7": "Wanindu Hasaranga", "8": "Mitchell Marsh", "9": "Mayank Yadav", "10": "Avesh Khan", "11": "Mohsin Khan", "12": "Matthew Breetzke", "13": "Himmat Singh", "14": "Shahbaz Ahmed", "15": "Arshin Kulkarni", "16": "Manimaran Siddharth", "17": "Digvesh Rathi", "18": "Prince Yadav", "19": "Akash Singh", "20": "Arjun Tendulkar", "21": "Anrich Nortje", "22": "Krunal Pandya", "23": "Yash Thakur", "24": "Amit Mishra", "25": "Prerak Mankad"
+    }
+  },
+  "GT": {
+    "name": "Gujarat Titans", "color": "#1B2133", "text": "#FFF",
+    "players": {
+      "1": "Shubman Gill", "2": "Rashid Khan", "3": "Sai Sudharsan", "4": "Jos Buttler", "5": "Mohammed Siraj", "6": "Washington Sundar", "7": "Rahul Tewatia", "8": "Kagiso Rabada", "9": "Kumar Kushagra", "10": "Anuj Rawat", "11": "Nishant Sindhu", "12": "Arshad Khan", "13": "Shahrukh Khan", "14": "Prasidh Krishna", "15": "Ishant Sharma", "16": "Gurnoor Singh Brar", "17": "Manav Suthar", "18": "Sai Kishore", "19": "Jayant Yadav", "20": "Ashok Sharma", "21": "Jason Holder", "22": "Kane Williamson", "23": "David Miller", "24": "Mohit Sharma", "25": "Noor Ahmad"
+    }
+  },
+  "RCB": {
+    "name": "Royal Challengers Bengaluru", "color": "#DB0007", "text": "#FFF",
+    "players": {
+      "1": "Virat Kohli", "2": "Rajat Patidar", "3": "Yash Dayal", "4": "Josh Hazlewood", "5": "Phil Salt", "6": "Jacob Bethell", "7": "Krunal Pandya", "8": "Nuwan Thushara", "9": "Romario Shepherd", "10": "Tim David", "11": "Swapnil Singh", "12": "Suyash Sharma", "13": "Devdutt Padikkal", "14": "Bhuvneshwar Kumar", "15": "Jitesh Sharma", "16": "Rasikh Dar", "17": "Abhinandan Singh", "18": "Faf du Plessis", "19": "Glenn Maxwell", "20": "Mohammed Siraj", "21": "Cameron Green", "22": "Will Jacks", "23": "Dinesh Karthik", "24": "Akash Deep", "25": "Karn Sharma"
+    }
+  },
+  "KKR": {
+    "name": "Kolkata Knight Riders", "color": "#3A225D", "text": "#FFF",
+    "players": {
+      "1": "Rinku Singh", "2": "Sunil Narine", "3": "Varun Chakravarthy", "4": "Matheesha Pathirana", "5": "Cameron Green", "6": "Ajinkya Rahane", "7": "Angkrish Raghuvanshi", "8": "Manish Pandey", "9": "Rovman Powell", "10": "Ramandeep Singh", "11": "Anukul Roy", "12": "Harshit Rana", "13": "Vaibhav Arora", "14": "Umran Malik", "15": "Finn Allen", "16": "Tejasvi Singh", "17": "Kartik Tyagi", "18": "Prashant Solanki", "19": "Rahul Tripathi", "20": "Tim Seifert", "21": "Sarthak", "22": "Saurabh Dubey", "23": "Suyash Sharma", "24": "Venkatesh Iyer", "25": "Mitchell Starc"
+    }
+  },
+  "SRH": {
+    "name": "Sunrisers Hyderabad", "color": "#FF822E", "text": "#000",
+    "players": {
+      "1": "Pat Cummins", "2": "Travis Head", "3": "Abhishek Sharma", "4": "Heinrich Klaasen", "5": "Ishan Kishan", "6": "Nitish Kumar Reddy", "7": "Harshal Patel", "8": "Liam Livingstone", "9": "Kamindu Mendis", "10": "Brydon Carse", "11": "Jaydev Unadkat", "12": "Mayank Agarwal", "13": "T. Natarajan", "14": "Aniket Verma", "15": "R. Smaran", "16": "Harsh Dubey", "17": "Eshan Malinga", "18": "Zeeshan Ansari", "19": "Shivang Kumar", "20": "Salil Arora", "21": "Sakib Hussain", "22": "Onkar Tarmale", "23": "Amit Kumar", "24": "Praful Hinge", "25": "Krains Fuletra"
+    }
+  },
+  "RR": {
+    "name": "Rajasthan Royals", "color": "#2D4D95", "text": "#FFF",
+    "players": {
+      "1": "Yashasvi Jaiswal", "2": "Sanju Samson", "3": "Riyan Parag", "4": "Dhruv Jurel", "5": "Shimron Hetmyer", "6": "Ravindra Jadeja", "7": "Sam Curran", "8": "Jofra Archer", "9": "Tushar Deshpande", "10": "Ravi Bishnoi", "11": "Sandeep Sharma", "12": "Shubham Dubey", "13": "Vaibhav Suryavanshi", "14": "Lhuan-Dre Pretorius", "15": "Donovan Ferreira", "16": "Nandre Burger", "17": "Kwena Maphaka", "18": "Yudhvir Singh Charak", "19": "Sushant Mishra", "20": "Yash Raj Punja", "21": "Vignesh", "22": "Navdeep Saini", "23": "Avesh Khan", "24": "Trent Boult", "25": "Yuzvendra Chahal"
+    }
+  },
+  "PBKS": {
+    "name": "Punjab Kings", "color": "#ED1B24", "text": "#FFF",
+    "players": {
+      "1": "Shikhar Dhawan", "2": "Arshdeep Singh", "3": "Sam Curran", "4": "Liam Livingstone", "5": "Kagiso Rabada", "6": "Harshal Patel", "7": "Jitesh Sharma", "8": "Rahul Chahar", "9": "Prabhsimran Singh", "10": "Harpreet Brar", "11": "Sikandar Raza", "12": "Chris Woakes", "13": "Rishi Dhawan", "14": "Atharva Taide", "15": "Nathan Ellis", "16": "Ashutosh Sharma", "17": "Shashank Singh", "18": "Tanay Thyagarajan", "19": "Prince Choudhary", "20": "Rilee Rossouw", "21": "Vishwanath Singh", "22": "Harpreet Bhatia", "23": "Vidwath Kaverappa", "24": "Shivam Singh", "25": "Matthew Short"
+    }
+  }
+}
